@@ -53,13 +53,13 @@ Once the dependancies are installed, you can start the application server by run
 npm start
 ```
 
-Once the server is running, you can access the start page (index.html) by opening your browser to [http://localhost:3000](http://localhost:3000).
+Once the server is running, you can access the start page (index.html) by opening your browser to [http://localhost:3001](http://localhost:3001).
 
 To stop the server, press CTRL-C.
 
 ## REST API
 
-The Users JSON REST API is exposed at [http://localhost:3000/users](http://localhost:3000).
+The Users JSON REST API is exposed at [http://localhost:3001/users](http://localhost:3001).
 
 On server start, user data is read into memory from init_data.json. All subsequent actions are done against this memory store.  Stopping and starting the server will re-initialize data from init_data.json.  
 

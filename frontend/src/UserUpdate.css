@@ -1,0 +1,17 @@
+.UserUpdate {
+    
+}
+
+.UserUpdate-Form {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.UserUpdate a {
+    /* color: white; */
+    text-decoration: none;
+}
+
+.left {
+    margin: 0 5px;
+}
