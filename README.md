@@ -8,7 +8,7 @@ For each directory, follow these steps:
 * Navigate to the Directory:
 
 ```
-cd backend
+cd backend / frontend
 ```
 
 * Install dependencies:
@@ -25,7 +25,7 @@ npm start
 
 Once the servers are running, you can access the app by opening your browser to [http://localhost:3000](http://localhost:3000).
 
-To stop the servers, press CTRL-C.
+To stop the servers, press CTRL-C for each.
 
 
 ## REST API
